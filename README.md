@@ -3,7 +3,6 @@ Esta es la ultima versión hasta el momento de Conectando Estudiantes, en el que
 •En esta versión mejore algunos estilos imagenes carteles footer y más...
 ## Los lenguajes utilizados hasta el momento
 •HTML (HyperText Markup Language)
-#
 •CSS (Cascading Style Sheets)
 •JS (JavaScript)
 
