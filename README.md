@@ -12,4 +12,4 @@ Esta es la ultima versión hasta el momento de Conectando Estudiantes, en el que
 •En un futuro planeo poder hacer manejo de usuarios, tengo muchas ideas para hacer pero esto recién empieza...
 
 
-•Link de Conectando Estudiantes en Github Pages: https://ramigarcia.github.io/ConectandoEstudiantes-V2.0/
+•Link de la version 2.0 de Conectando Estudiantes en Github Pages: https://ramigarcia.github.io/ConectandoEstudiantes-V2.0/
