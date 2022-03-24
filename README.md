@@ -8,5 +8,3 @@ Esta es la "segunda" versión de Conectando Estudiantes, en el que mejore pocas 
 •CSS (Cascading Style Sheets)
 
 •JS (JavaScript)
-
-•En un futuro planeo poder hacer manejo de usuarios, tengo muchas ideas para hacer pero esto recién empieza...
